@@ -17,3 +17,5 @@
 ## DESCRIPTION:- A modern, responsive portfolio website designed to showcase my skills, projects, and passion as a frontend developer and creative problem-solver. Built with HTML, CSS, and JavaScript, the site features dynamic sections, smooth animations, and a clean dark theme to provide an engaging user experience.
 
 #OUTPUT :
+
+  ![img](https://github.com/user-attachments/assets/4e77a7b8-95e7-4a27-85fc-746d3da609fe)
